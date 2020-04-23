@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //再次提交
         bt_num = findViewById(R.id.bt_num);
         tv_content = findViewById(R.id.tv_content);
 
